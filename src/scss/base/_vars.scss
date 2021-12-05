@@ -6,7 +6,4 @@
 
 $primary: #0c4bfa;
 
-$widget-sizes: ("width": 400, "height": 500)
-
-@debug map.get($widget-sizes, "height")  
-@debug map.get($widget-sizes, "width")  
+$widget-sizes: ("width": 400, "height": 500);
