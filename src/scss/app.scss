@@ -37,4 +37,4 @@ html {
   }
 }
 
-&.small {width: map-get($widget-sizes, "small");}
+&.small {width: map-get($widget-sizes, "width");}
